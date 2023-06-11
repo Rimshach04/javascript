@@ -44,3 +44,15 @@ for(let index in arr)
 
 // console.log(index)
 
+// Object 
+const person={
+    name:"Afria & Rimsha",
+    semester:"4ht",
+    address:"Hasilpur"
+}
+
+// console.log(person.address);
+for (let keys in person){
+    console.log(person[keys]);
+}
+
