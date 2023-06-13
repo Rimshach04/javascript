@@ -26,33 +26,49 @@ var i=1;
 
 
 
-for(i=1;i<9;i=i+1);
+// for(i=1;i<9;i=i+1);
 
 // console.log("check");
 
     // console.log(i);
 
-var arr=[12,13,14,15];
+               //    for-in
+            // in arry arry not sport dot function
 
-for(let index in arr)
-{
-    // if(arr[index]%2==0)
-        // console.log(arr[index]);
-        // index=index+1
-        // console.log(index)
-}
+// var arr=[12,13,14,15];
 
-// console.log(index)
+// for(let index in arr)
+// {
+//      if(arr[index]%2==0)
+//          console.log(arr[index],"even");
+
+// else
+//     console.log(arr[index],"odd");
+// }
+
 
 // Object 
-const person={
-    name:"Afria & Rimsha",
-    semester:"4ht",
-    address:"Hasilpur"
-}
+//  const person={
+//     name:"Afria & Rimsha",
+//     semester:"4ht",
+//     address:"Hasilpur"
+//  }
 
-// console.log(person.address);
-for (let keys in person){
-    console.log(person[keys]);
-}
+//  console.log(person.address);
+// for (let keys in person){
+//    console.log(keys,":",person[keys]);
+//  }
 
+        //    for-of     use in array only not suport objects
+
+        // arry
+
+    //     let animal=["cat","dog","hours"];
+    //     // console.log(animal);
+    //    for(let indux of animal){
+    //     console.log(indux);
+    //    }
+
+
+
+    
