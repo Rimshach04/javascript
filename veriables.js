@@ -35,6 +35,15 @@ console.log("veriables");
 // let a=50;
 // a=90;
  // console.log(a);
+        //   4
+//  let a=20;
+//      if(a<30){
+//         let a=40;
+//         console.log(a);
+//      }
+//      console.log(a);
+     
+ 
 
 
 // const: it not reassign value and redeclare
